@@ -1,0 +1,9 @@
+body {background-color: rgb(121, 224, 250);} /* background color of main menu */
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  } /* center the logo*/
+
